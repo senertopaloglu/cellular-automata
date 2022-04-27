@@ -7,6 +7,10 @@ Program takes three values from the user as command line arguments. These values
 - number of generations to evolve and output the cellular automata for (a positive integer)
 - Wolfram code specifying which the rule set to evolve your cellular automata with (an integer in the range [0,255]).
 
+Please see the image below for an example:
+
+<img src="demo.PNG" width="40%" height="40%">
+
 Dynamic memory allocation was used in this implementation and has been confirmed using valgrind that the program produces no memory leaks. 
 
 Sources:
