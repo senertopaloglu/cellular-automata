@@ -16,3 +16,8 @@ Dynamic memory allocation was used in this implementation and has been confirmed
 Sources:
 - https://en.wikipedia.org/wiki/Cellular_automaton
 - http://mathworld.wolfram.com/ElementaryCellularAutomaton.html
+
+## Executing the Program
+To run the program, please pull this repo and navigate to the directory, then enter command:
+
+```task1 [number of cells] [number of generations] [wolfram code]```
